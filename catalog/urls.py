@@ -1,10 +1,10 @@
 from django.urls import path
 
-from product.apps import ProductConfig
+from catalog.apps import ProductConfig
 
 app_name = ProductConfig.name
 
 urlpatterns = [
     # path('admin/', admin.site.urls),
-    # path('', include('product.urls', namespace='product'))
+    # path('', include('catalog.urls', namespace='catalog'))
 ]
