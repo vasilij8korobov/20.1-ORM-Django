@@ -1,0 +1,26 @@
+[
+  {
+    "model": "product.category",
+    "pk": 9,
+    "fields": {
+      "name": "Для дачи",
+      "description": "Различные товары для дачи и огорода"
+    }
+  },
+  {
+    "model": "product.category",
+    "pk": 10,
+    "fields": {
+      "name": "Для стройки",
+      "description": "Инстпумент и материалл"
+    }
+  },
+  {
+    "model": "product.category",
+    "pk": 11,
+    "fields": {
+      "name": "для дома",
+      "description": "для дома и интерьера дома"
+    }
+  }
+]
